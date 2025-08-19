@@ -6,6 +6,3 @@ tensorboard
 matplotlib
 streamlit
 scikeras
-
-
-# to run use "streamlit run app.py"
